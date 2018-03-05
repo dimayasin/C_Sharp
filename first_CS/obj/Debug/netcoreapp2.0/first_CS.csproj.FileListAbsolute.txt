@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\bin\Debug\netcoreapp2.0\first_CS.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\bin\Debug\netcoreapp2.0\first_CS.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\bin\Debug\netcoreapp2.0\first_CS.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\bin\Debug\netcoreapp2.0\first_CS.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\bin\Debug\netcoreapp2.0\first_CS.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\obj\Debug\netcoreapp2.0\first_CS.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\obj\Debug\netcoreapp2.0\first_CS.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\obj\Debug\netcoreapp2.0\first_CS.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\obj\Debug\netcoreapp2.0\first_CS.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\first_CS\obj\Debug\netcoreapp2.0\first_CS.pdb
