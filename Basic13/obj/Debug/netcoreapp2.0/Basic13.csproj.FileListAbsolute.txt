@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\bin\Debug\netcoreapp2.0\Basic13.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\bin\Debug\netcoreapp2.0\Basic13.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\bin\Debug\netcoreapp2.0\Basic13.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\bin\Debug\netcoreapp2.0\Basic13.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\bin\Debug\netcoreapp2.0\Basic13.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\obj\Debug\netcoreapp2.0\Basic13.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\obj\Debug\netcoreapp2.0\Basic13.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\obj\Debug\netcoreapp2.0\Basic13.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\obj\Debug\netcoreapp2.0\Basic13.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\Basic13\obj\Debug\netcoreapp2.0\Basic13.pdb
