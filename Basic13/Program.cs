@@ -38,6 +38,7 @@ namespace Basic13
                 if (i % 5 == 0)
                     Console.WriteLine();
             }
+            Console.WriteLine();
             Console.WriteLine("===========");
             Console.WriteLine("Print Sum");
             Console.WriteLine("===========");
@@ -71,7 +72,7 @@ namespace Basic13
                     max = X1[i];
                 Console.Write(X1[i] + " ");
             }
-            Console.Write(". The max number = " + max);
+            Console.WriteLine(". The max number = " + max);
 
             Console.WriteLine("===========");
             Console.WriteLine("Get Average");
@@ -86,7 +87,7 @@ namespace Basic13
                 Console.Write(X2[i] + " ");
             }
             avg = sum / X2.Length;
-            Console.Write(". avrg = " + avg);
+            Console.WriteLine(". avrg = " + avg);
 
             Console.WriteLine("======================");
             Console.WriteLine("Array with Odd Numbers");
