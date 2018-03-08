@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\bin\Debug\netcoreapp2.0\MyFirstAsp.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\bin\Debug\netcoreapp2.0\MyFirstAsp.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\bin\Debug\netcoreapp2.0\MyFirstAsp.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\bin\Debug\netcoreapp2.0\MyFirstAsp.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\bin\Debug\netcoreapp2.0\MyFirstAsp.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\obj\Debug\netcoreapp2.0\MyFirstAsp.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\obj\Debug\netcoreapp2.0\MyFirstAsp.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\obj\Debug\netcoreapp2.0\MyFirstAsp.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\obj\Debug\netcoreapp2.0\MyFirstAsp.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\MyFirstAsp\obj\Debug\netcoreapp2.0\MyFirstAsp.pdb

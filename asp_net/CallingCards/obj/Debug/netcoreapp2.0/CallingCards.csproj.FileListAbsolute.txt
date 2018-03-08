@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\bin\Debug\netcoreapp2.0\CallingCards.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\bin\Debug\netcoreapp2.0\CallingCards.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\bin\Debug\netcoreapp2.0\CallingCards.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\bin\Debug\netcoreapp2.0\CallingCards.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\bin\Debug\netcoreapp2.0\CallingCards.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\obj\Debug\netcoreapp2.0\CallingCards.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\obj\Debug\netcoreapp2.0\CallingCards.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\obj\Debug\netcoreapp2.0\CallingCards.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\obj\Debug\netcoreapp2.0\CallingCards.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\CallingCards\obj\Debug\netcoreapp2.0\CallingCards.pdb
