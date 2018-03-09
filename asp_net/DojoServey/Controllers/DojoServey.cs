@@ -22,7 +22,7 @@ namespace DojoServey.Controllers
             ViewBag.Language = language;
             ViewBag.Comment = comment;
 
-            return View("results.cshtml");
+            return View("results");
         }
 
 
