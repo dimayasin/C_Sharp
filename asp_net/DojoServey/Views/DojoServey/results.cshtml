@@ -1,0 +1,47 @@
+<body>
+    <h1>Submitted Info</h1>
+        <div id="container1">
+            <table>
+               <tr> <td>Your Name:</td>
+                <td><input type="text" name="name" /></td><td>
+                    @{
+                    string LocalString = ViewBag.name;
+                }
+                @LocalString
+                </td></tr>
+                <tr><td>
+                <label>Dojo Location: </label></td><td>
+                @{
+                    string LocalString = ViewBag.Location;
+                }
+                @LocalString
+                </td></tr>
+                <tr><td>
+                <label>Favorite Language: </label></td>
+                @{
+                    string LocalString = ViewBag.Language;
+                }
+                @LocalString
+                
+                </td></tr><tr><td>
+                <label>Comments (Optional):</label></td><td>
+                @{
+                    string LocalString = ViewBag.Comment;
+                }
+                @LocalString
+                
+                </td></tr>
+                <tr><td></td><td>
+                <input type="submit" value="Submit" /></td></tr>
+            </table>
+            
+            
+            
+            
+            
+            </form>
+          
+    
+
+        </div>
+</body>

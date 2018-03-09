@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\bin\Debug\netcoreapp2.0\DojoServey.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\bin\Debug\netcoreapp2.0\DojoServey.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\bin\Debug\netcoreapp2.0\DojoServey.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\bin\Debug\netcoreapp2.0\DojoServey.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\bin\Debug\netcoreapp2.0\DojoServey.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\obj\Debug\netcoreapp2.0\DojoServey.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\obj\Debug\netcoreapp2.0\DojoServey.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\obj\Debug\netcoreapp2.0\DojoServey.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\obj\Debug\netcoreapp2.0\DojoServey.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\DojoServey\obj\Debug\netcoreapp2.0\DojoServey.pdb
