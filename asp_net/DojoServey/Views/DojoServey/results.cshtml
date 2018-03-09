@@ -3,7 +3,7 @@
         <div id="container1">
             <table>
                <tr> <td>Your Name:</td>
-                <td><input type="text" name="name" /></td><td>
+                <td>
                     @{
                     string LocalString = ViewBag.name;
                 }
@@ -12,21 +12,21 @@
                 <tr><td>
                 <label>Dojo Location: </label></td><td>
                 @{
-                    string LocalString = ViewBag.Location;
+                    LocalString = ViewBag.Location;
                 }
                 @LocalString
                 </td></tr>
                 <tr><td>
                 <label>Favorite Language: </label></td>
                 @{
-                    string LocalString = ViewBag.Language;
+                    LocalString = ViewBag.Language;
                 }
                 @LocalString
                 
                 </td></tr><tr><td>
                 <label>Comments (Optional):</label></td><td>
                 @{
-                    string LocalString = ViewBag.Comment;
+                    LocalString = ViewBag.Comment;
                 }
                 @LocalString
                 
