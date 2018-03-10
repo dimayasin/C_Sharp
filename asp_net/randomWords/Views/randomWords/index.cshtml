@@ -1,0 +1,16 @@
+    <body>
+        <div id="container1">
+                @{ int localVar = ViewBag.Count;
+            } 
+            <h3>Random Passcode (passcode#  @localVar )</h3>
+    
+        </div>
+        <div id="container2">
+
+              @{
+                string LocalVariable1 = ViewBag.PassCode;
+            }
+            <h1>@LocalVariable1</h1>
+        </div>
+        <a href="method">Generate</a>
+    </body>

@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\bin\Debug\netcoreapp2.0\randomWords.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\bin\Debug\netcoreapp2.0\randomWords.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\bin\Debug\netcoreapp2.0\randomWords.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\bin\Debug\netcoreapp2.0\randomWords.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\bin\Debug\netcoreapp2.0\randomWords.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\obj\Debug\netcoreapp2.0\randomWords.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\obj\Debug\netcoreapp2.0\randomWords.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\obj\Debug\netcoreapp2.0\randomWords.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\obj\Debug\netcoreapp2.0\randomWords.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\randomWords\obj\Debug\netcoreapp2.0\randomWords.pdb
