@@ -1,0 +1,55 @@
+@{ ViewData["Title"] = "Dojogachi"; }
+<div class="ninja">
+    <h1>DojoGachi!</h1>
+</div>
+<h2>@ViewBag.results </h2>
+<div class="ninja">
+
+</div>
+<table>
+    <tr>
+        <td>
+            <h2>Happiness</h2>
+        </td>
+         <td>
+            <h2>
+                @ViewBag.happiness
+            </h2>
+        </td>
+        <td>
+            <h2>Energy</h2>
+        </td>
+         <td>
+            <h2>
+                @ViewBag.energy
+            </h2>
+        </td>
+        <td>
+            <h2>Fullness</h2>
+        </td>
+         <td>
+            <h2>
+                @ViewBag.fullness
+            </h2>
+        </td>
+        <td>
+            <h2>Meals</h2>
+        </td>
+         <td>
+            <h2>
+                @ViewBag.meals
+            </h2>
+        </td>
+    </tr>
+    </table>
+    <div id="container">
+
+        <h2>Your Dojogachi has passed away</h2>
+
+
+    </div>
+  
+            <form action="/" , method="get">
+                <button type="submit">Restart</button>
+            </form>
+  
