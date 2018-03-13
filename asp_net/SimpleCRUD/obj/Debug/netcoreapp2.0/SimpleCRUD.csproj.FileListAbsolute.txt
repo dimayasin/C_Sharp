@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\bin\Debug\netcoreapp2.0\SimpleCRUD.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\SimpleCRUD\obj\Debug\netcoreapp2.0\SimpleCRUD.pdb
