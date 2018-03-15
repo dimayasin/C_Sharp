@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\bin\Debug\netcoreapp2.0\formSubmission.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\bin\Debug\netcoreapp2.0\formSubmission.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\bin\Debug\netcoreapp2.0\formSubmission.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\bin\Debug\netcoreapp2.0\formSubmission.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\bin\Debug\netcoreapp2.0\formSubmission.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\obj\Debug\netcoreapp2.0\formSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\obj\Debug\netcoreapp2.0\formSubmission.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\obj\Debug\netcoreapp2.0\formSubmission.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\obj\Debug\netcoreapp2.0\formSubmission.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\formSubmission\obj\Debug\netcoreapp2.0\formSubmission.pdb
