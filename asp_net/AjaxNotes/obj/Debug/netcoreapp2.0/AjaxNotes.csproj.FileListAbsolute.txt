@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\bin\Debug\netcoreapp2.0\AjaxNotes.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\bin\Debug\netcoreapp2.0\AjaxNotes.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\bin\Debug\netcoreapp2.0\AjaxNotes.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\bin\Debug\netcoreapp2.0\AjaxNotes.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\bin\Debug\netcoreapp2.0\AjaxNotes.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\obj\Debug\netcoreapp2.0\AjaxNotes.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\obj\Debug\netcoreapp2.0\AjaxNotes.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\obj\Debug\netcoreapp2.0\AjaxNotes.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\obj\Debug\netcoreapp2.0\AjaxNotes.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\AjaxNotes\obj\Debug\netcoreapp2.0\AjaxNotes.pdb

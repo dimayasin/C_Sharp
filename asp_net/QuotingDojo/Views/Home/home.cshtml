@@ -1,0 +1,14 @@
+<body>
+@{
+    string messge = ViewBag.msg;
+}
+<h1>Here are the awesome quotes!</h1>
+    @foreach (var item in ViewBag.allQuotes)
+    {
+        <p>@item["Quote"]</p>
+        <p>@item["UserName"] at @item["createdAt"]</p>
+        <hr />
+    }
+
+</body>
+<a href="/">Add New Quote</a>

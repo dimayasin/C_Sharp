@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<table>
+<form action="/add" method="POST">
+ <tr>  <td> Note</td></tr>
+  <tr>  <td>  <input type="text" name="title" value="Insert Title Here" /></td></tr>
+<tr>  <td>    <textarea name="noteMsg">Enter Description Here</textarea></td></tr>
+ <tr>  <td>  <input type="submit" value="Add Note" /></td></tr>
+
+</form>
+</table>
+
+ @{
+        @foreach(var note in ViewBag.notes)
+        {
+            <form  action='/update/@note["id"]' method='post' id='myform'>
+            <h4>@note["title"]</h4>
+            <textarea name="noteMsg" cols="30" rows="10">@note["description"] </textarea>
+            <h6>Created on: @note["createdAt"]</h6>
+            <h6>Updated at: @note["updatedAt"]</h6>
+            </form>
+            <button type='submit' form='myform'>Edit</button>
+            <button><a href='delete/@note["id"]'>Delete</a></button>
+            
+        }  
+}
+
+
