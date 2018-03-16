@@ -1,0 +1,10 @@
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.AssemblyInfo.cs
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.deps.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.runtimeconfig.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.runtimeconfig.dev.json
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\bin\Debug\netcoreapp2.0\loginRegistration.pdb
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.dll
+C:\Users\Dima\Desktop\CODING DOJO\CSharp\asp_net\loginRegistration\obj\Debug\netcoreapp2.0\loginRegistration.pdb
