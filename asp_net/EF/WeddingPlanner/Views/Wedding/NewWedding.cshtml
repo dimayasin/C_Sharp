@@ -1,0 +1,71 @@
+@model WeddingPlanner.Models.Wedding
+<div class="header">
+<h3><a href="Show">Dashboard</a> | <a href="logout">Log Out</a> </h3>
+</div>
+
+   <div>
+        <h1>Plan Your Wedding</h1>
+
+        <table>
+            <form asp-controller="Wedding" asp-action="addWed" method="post">
+
+                <tr>
+                    <td>
+                        <span asp-validation-for="WedderOne"></span>
+                    </td>
+                    <td>
+                        <label>Wedder One</label>
+                    </td>
+                    <td>
+                        <input asp-for="WedderOne" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span asp-validation-for="WedderTwo"></span>
+                    </td>
+                    <td>
+                        <label>Wedder Two</label>
+                    </td>
+                    <td>
+                        <input asp-for="WedderTwo" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span asp-validation-for="WeddingDate"></span>
+                    </td>
+                    <td>
+                        <label>Date</label>
+                    </td>
+                    <td>
+                        <input asp-for="WeddingDate" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span asp-validation-for="Address"></span>
+                    </td>
+ 
+                    <td>
+                        <label>Address</label>
+                    </td>
+                    <td>
+                        <input asp-for="Address" />
+                    </td>
+                </tr>
+
+                <tr>
+                    <td> </td>
+                    <td>
+                        <button type="submit">Create</button>
+                    </td>
+                </tr>
+            </form>
+        </table>
+    </div>
+
+@if (ViewBag.message != null)
+{
+  <p>@ViewBag.message</p>
+}

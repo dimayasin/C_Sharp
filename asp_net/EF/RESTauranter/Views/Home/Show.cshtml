@@ -1,0 +1,8 @@
+@model RESTauranter.Models.Restaurant;
+
+@foreach (var review in ViewBag.Reviews)
+{
+    <h2>Review for: @review.RestaurantName  @review.Stars</h2>
+    <h2>Reviewer: @review.ReviewerName. @review.DateOfVisit </h2>
+    <hr />
+}

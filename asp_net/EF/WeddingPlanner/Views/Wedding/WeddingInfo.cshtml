@@ -1,0 +1,23 @@
+
+<div class="header">
+<h3 class="right"><a asp-action="Show" asp-controller="Login">Dashboard</a> | <a href="logout">Log Out</a> </h3>
+<h1 class="left">@ViewBag.ThisWedding.WedderOne and @ViewBag.ThisWedding.WedderTwo</h1>
+
+</div>
+<h3 Class="Display">Date: @ViewBag.ThisWedding.WeddingDate</h3>
+<div id="left">
+    <h2>Guests: </h2>
+    @if(  @ViewBag.ThisWedding != null){
+    @foreach (var guest in @ViewBag.ThisWedding.Guests){
+        <h3>@guest.User.UserFirstName @guest.User.UserLastName</h3>
+    }
+    }
+
+</div>
+
+
+<div id="right">
+
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="maps.google.com/maps?q=@ViewBag.ThisWedding.Address &output=embed"></iframe> 
+
+</div>
